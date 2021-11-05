@@ -1,0 +1,18 @@
+{
+"ResponseWaitingTime ": "15",
+  "MaxNumOfConAttempts": "5",
+  "DataSources": [
+    {
+      "URL": "https://metanit.com/sharp/aspnet5/2.9.php",
+      "PriorityItsUse ": "10"
+    },
+    {
+      "URL": "https://metanit.com/sharp/aspnet5/",
+      "PriorityItsUse ": "5"
+    },
+    {
+      "URL": "https://metanit.com/sharp/aspnet5/1.1.php",
+      "PriorityItsUse ": "20"
+    }
+  ]
+}
